@@ -39,11 +39,9 @@ for key, value in sort.items():
 ```
 
 ## Sample Output
-<img width="1263" height="110" alt="image" src="https://github.com/user-attachments/assets/49c4262c-d1f0-456f-b3e7-08530bd8979a" />
+<img width="1264" height="116" alt="{8EC966A5-3C2D-4E98-BCC2-56232F6239E0}" src="https://github.com/user-attachments/assets/a6f67ef2-e0b2-4711-b66f-d57c1390e02f" />
+
+
 ## Result
 Thus, the program has been successfully executed.
-
-## Sample Output
-
-## Result
 
